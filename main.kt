@@ -4,5 +4,6 @@ fun main() {
   println(2)
   println(3)
   val j = 4
+some errors
   something
 }
